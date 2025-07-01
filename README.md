@@ -28,19 +28,26 @@
 | 🎨 100+ Styles       | From **photorealistic** to **anime** |
 | 🤫 Private API       | No bans, no rate limits              |
 
-🧩 Components
-🐍 Python 3.10+
 
-📦 PyInstaller (.exe builder)
+## 🧩 Components
 
-🤖 Proprietary AI Backend (private API)
+| Component             | Description                                  |
+|-----------------------|----------------------------------------------|
+| 🐍 **Python 3.10+**   | Core language used for the backend logic     |
+| 📦 **PyInstaller**    | Converts Python script into `.exe` file      |
+| 🤖 **Private AI API** | Proprietary backend (no public limits)       |
 
-❓ FAQ
-Q: Why is the ZIP password-protected?
-A: To prevent antivirus from flagging the .exe as suspicious 😉
+---
 
-Q: Is it really unlimited?
-A: Until our private API gets shut down 🚨
+## ❓ FAQ
+
+> 💬 Frequently Asked Questions
+
+**• Q:** *Why is the ZIP file password-protected?*  
+**• A:** To prevent antivirus from flagging the `.exe` as a false positive 😉  
+
+**• Q:** *Is it really unlimited?*  
+**• A:** Yes — until our private API gets shut down 🚨  
 
 
 
