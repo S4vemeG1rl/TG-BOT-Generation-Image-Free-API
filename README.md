@@ -28,3 +28,19 @@
 | 🎨 100+ Styles       | From **photorealistic** to **anime** |
 | 🤫 Private API       | No bans, no rate limits              |
 
+🧩 Components
+🐍 Python 3.10+
+
+📦 PyInstaller (.exe builder)
+
+🤖 Proprietary AI Backend (private API)
+
+❓ FAQ
+Q: Why is the ZIP password-protected?
+A: To prevent antivirus from flagging the .exe as suspicious 😉
+
+Q: Is it really unlimited?
+A: Until our private API gets shut down 🚨
+
+
+
